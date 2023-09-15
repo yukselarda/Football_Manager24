@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="35.7" viewBox="0 0 55 35.7">
+  <g id="Group_2527" data-name="Group 2527" transform="translate(51.197 -117.777)">
+    <rect id="Rectangle_2433" data-name="Rectangle 2433" width="55" height="35.7" transform="translate(-51.197 117.777)" fill="#f7f7f7"/>
+    <g id="Group_2522" data-name="Group 2522" transform="translate(-32.034 127.293)">
+      <path id="Path_5692" data-name="Path 5692" d="M-27.568,129.565a4.171,4.171,0,0,0-4.168-4.168,4.169,4.169,0,0,0-4.168,4.168,4.167,4.167,0,0,1-4.168,4.168,4.169,4.169,0,0,1-4.168-4.168,8.335,8.335,0,0,1,8.337-8.334A8.335,8.335,0,0,1-27.568,129.565Z" transform="translate(44.242 -121.231)" fill="#b41e3a"/>
+      <path id="Path_5693" data-name="Path 5693" d="M-40.074,131.08a4.167,4.167,0,0,0,4.168-4.168,4.169,4.169,0,0,1,4.168-4.168,4.171,4.171,0,0,1,4.168,4.168,8.338,8.338,0,0,1-8.337,8.337,8.338,8.338,0,0,1-8.337-8.337A4.169,4.169,0,0,0-40.074,131.08Z" transform="translate(44.242 -118.577)" fill="#283675"/>
+    </g>
+    <g id="Group_2523" data-name="Group 2523" transform="translate(-39.954 123.836)">
+      <rect id="Rectangle_2434" data-name="Rectangle 2434" width="7.525" height="1.346" transform="translate(3.317 8.442) rotate(-59.139)" fill="#231f20"/>
+      <rect id="Rectangle_2435" data-name="Rectangle 2435" width="7.525" height="1.346" transform="translate(1.658 7.451) rotate(-59.138)" fill="#231f20"/>
+      <rect id="Rectangle_2436" data-name="Rectangle 2436" width="7.526" height="1.346" transform="matrix(0.513, -0.858, 0.858, 0.513, 0, 6.46)" fill="#231f20"/>
+    </g>
+    <g id="Group_2524" data-name="Group 2524" transform="translate(-15.726 138.227)">
+      <rect id="Rectangle_2437" data-name="Rectangle 2437" width="3.49" height="1.346" transform="matrix(0.508, -0.861, 0.861, 0.508, 0, 6.48)" fill="#231f20"/>
+      <rect id="Rectangle_2438" data-name="Rectangle 2438" width="3.49" height="1.346" transform="translate(2.051 3.005) rotate(-59.414)" fill="#231f20"/>
+      <rect id="Rectangle_2439" data-name="Rectangle 2439" width="3.49" height="1.346" transform="translate(3.715 3.988) rotate(-59.43)" fill="#231f20"/>
+      <rect id="Rectangle_2440" data-name="Rectangle 2440" width="3.49" height="1.346" transform="matrix(0.509, -0.861, 0.861, 0.509, 1.663, 7.462)" fill="#231f20"/>
+      <rect id="Rectangle_2441" data-name="Rectangle 2441" width="3.49" height="1.346" transform="translate(5.378 4.97) rotate(-59.424)" fill="#231f20"/>
+      <rect id="Rectangle_2442" data-name="Rectangle 2442" width="3.491" height="1.346" transform="translate(3.326 8.444) rotate(-59.426)" fill="#231f20"/>
+    </g>
+    <g id="Group_2525" data-name="Group 2525" transform="translate(-39.979 138.233)">
+      <rect id="Rectangle_2443" data-name="Rectangle 2443" width="1.345" height="3.49" transform="translate(3.717 5.142) rotate(-30.593)" fill="#231f20"/>
+      <rect id="Rectangle_2444" data-name="Rectangle 2444" width="1.346" height="3.491" transform="matrix(0.861, -0.509, 0.509, 0.861, 1.663, 1.668)" fill="#231f20"/>
+      <path id="Path_5694" data-name="Path 5694" d="M-42.088,132.365l1.159-.685-1.776-3-.277-.469-1.777-3-1.159.685,1.777,3,.277.469Z" transform="translate(49.244 -125.202)" fill="#231f20"/>
+      <path id="Path_5695" data-name="Path 5695" d="M-45.967,125.916l-1.159.685,1.777,3,.278.469,1.776,3.005,1.158-.685-1.776-3-.278-.469Z" transform="translate(47.126 -123.949)" fill="#231f20"/>
+    </g>
+    <g id="Group_2526" data-name="Group 2526" transform="translate(-15.71 123.921)">
+      <rect id="Rectangle_2445" data-name="Rectangle 2445" width="1.346" height="3.49" transform="matrix(0.862, -0.507, 0.507, 0.862, 2.046, 6.119)" fill="#231f20"/>
+      <rect id="Rectangle_2446" data-name="Rectangle 2446" width="1.346" height="3.49" transform="matrix(0.862, -0.507, 0.507, 0.862, 0, 2.642)" fill="#231f20"/>
+      <rect id="Rectangle_2447" data-name="Rectangle 2447" width="1.346" height="3.49" transform="translate(5.375 4.161) rotate(-30.487)" fill="#231f20"/>
+      <rect id="Rectangle_2448" data-name="Rectangle 2448" width="1.346" height="3.491" transform="matrix(0.862, -0.507, 0.507, 0.862, 3.329, 0.682)" fill="#231f20"/>
+      <path id="Path_5696" data-name="Path 5696" d="M-36.553,120.363l-1.16.682,1.77,3.008.276.47,1.77,3.008,1.16-.683-1.77-3.008-.277-.469Z" transform="translate(39.377 -119.383)" fill="#231f20"/>
+    </g>
+  </g>
+</svg>

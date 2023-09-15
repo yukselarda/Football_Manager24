@@ -1,0 +1,43 @@
+<svg id="Component_67_1" data-name="Component 67 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="213" viewBox="0 0 720 213">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#321450"/>
+      <stop offset="1" stop-color="#0a0410"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5965" data-name="Rectangle 5965" width="192" height="213" transform="translate(3241 2876)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_25424" data-name="Path 25424" d="M1143.375,494.965H791.788l-.262-43.273L938.29,0H1304.2Z" transform="translate(-791.527)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.849" y1="0.337" x2="0.853" y2="0.484" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#321450"/>
+      <stop offset="1" stop-color="#190a28"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#190a28" stop-opacity="0"/>
+      <stop offset="1" stop-color="#190a28"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="1" y2="0" xlink:href="#linear-gradient-3"/>
+    <clipPath id="clip-path-3">
+      <path id="Path_25428" data-name="Path 25428" d="M69.362,0,0,213H235.571V0Z" transform="translate(3724 2876)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="0.573" y1="0.606" x2="0.719" y2="0.657" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Group_10780" data-name="Group 10780" transform="translate(-3240 -2876)">
+    <rect id="Rectangle_5891" data-name="Rectangle 5891" width="720" height="213" transform="translate(3240 2876)" fill="#190a28"/>
+    <path id="Path_25422" data-name="Path 25422" d="M639.821,213H885.438L954.457,0H639.94Z" transform="translate(2600.837 2876)" fill="url(#linear-gradient)"/>
+    <g id="Mask_Group_833" data-name="Mask Group 833" clip-path="url(#clip-path)">
+      <g id="Group_10779" data-name="Group 10779" transform="translate(2892.304 2876)" clip-path="url(#clip-path-2)">
+        <path id="Path_25423" data-name="Path 25423" d="M720.8-140.59l555.685,403.729V186.646L720.8-217.093ZM1276.484,66,720.8-337.735v76.5L1276.484,142.5V66ZM720.8-19.948l555.685,403.729V307.288L720.8-96.451Zm0-361.926L1276.484,21.855V-54.638L720.8-458.377v76.5ZM1276.484-175.28,720.8-579.019v76.5L1276.484-98.787V-175.28ZM720.8-623.158l555.685,403.729v-76.493L720.8-699.661Zm0-120.642,555.685,403.729v-76.493L720.8-820.3Zm0-120.642,555.685,403.729v-76.493L720.8-940.945Zm0-120.642,555.685,403.729v-76.493L720.8-1061.587Z" transform="translate(-753.214 575.061)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <rect id="Rectangle_5967" data-name="Rectangle 5967" width="213" height="107.376" transform="translate(3348.376 2876) rotate(90)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_5966" data-name="Rectangle 5966" width="720" height="59.633" transform="translate(3960 3089) rotate(-180)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_5970" data-name="Rectangle 5970" width="100.989" height="213" transform="translate(3724 2876)" fill="none"/>
+    <g id="Mask_Group_834" data-name="Mask Group 834" clip-path="url(#clip-path-3)">
+      <path id="Path_25425" data-name="Path 25425" d="M-300.652-1333.818,983.461-400.368v-110.3L-300.652-1444.146Zm0,173.626L983.461-226.741v-110.3L-300.652-1270.52v110.328Zm0,173.627L983.461-53.115v-110.3L-300.652-1096.893v110.328Zm0,173.626L983.461,120.512V10.207L-300.652-923.267v110.328Zm0,173.627L983.461,294.138v-110.3L-300.652-749.64v110.328Zm0,173.627L983.461,467.765V357.46L-300.652-576.014v110.328Zm0,173.626L983.461,641.391v-110.3L-300.652-402.387v110.328Zm0,173.626L983.461,815.018v-110.3L-300.652-228.761v110.328Zm0,173.627L983.461,988.644v-110.3L-300.652-55.134V55.193Zm0,173.626L983.461,1162.271v-110.3L-300.652,118.492V228.82Z" transform="translate(3338.256 2805.541)" fill="url(#linear-gradient-5)"/>
+    </g>
+    <rect id="Rectangle_5964" data-name="Rectangle 5964" width="213" height="107.376" transform="translate(3959.571 2876) rotate(90)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
